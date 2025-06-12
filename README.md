@@ -22,7 +22,7 @@ Este perfil está orientado a **fomentar la unión y el crecimiento de la comuni
 
 - 🚀 **Proyectos prácticos:** Encontrarás repositorios con ejemplos reales, soluciones a problemas específicos y buenas prácticas.
 - 💬 **Espacio para preguntas y colaboración:** Siempre estoy abierto a colaborar y responder dudas de la comunidad.
-- 🌎 **Enfoque hispano:** La mayoría de mis contenidos están pensados para que la comunidad hispanohablante tenga acceso a recursos de calidad, pioneros en todo el mundo, claros, concisos, actualizados y en su propio idioma.
+- 🌎 **Enfoque hispano:** La mayoría de mis contenidos están pensados para que la comunidad hispanohablante tenga acceso a recursos de calidad, claros, concisos, actualizados y en su propio idioma.
 
 ## ¡Colaboremos!
 
@@ -32,4 +32,3 @@ Si tienes ideas, preguntas o quieres contribuir a alguno de los proyectos, **¡n
 
 > "Compartir conocimiento es la mejor forma de crecer como comunidad."
 
-¡Gracias por visitar mi perfil!
